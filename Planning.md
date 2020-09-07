@@ -16,6 +16,7 @@ Sketching: https://vimeo.com/445611312
 ## Topics
 
 * Identity for studio an exhibition
+* Working together in a studio
 * Research
 * Process and planning
 * Tools
@@ -38,6 +39,7 @@ Sketching: https://vimeo.com/445611312
 ## Monday Sept 7
 
 * Introduction
+* Personal introductions
 * Studios and roles
 * Assignments and topics
 * Planning

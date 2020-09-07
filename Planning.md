@@ -2,6 +2,16 @@
 
 ## What do (graphic) designers do in 2030, to make a living?
 
+## Links
+
+Github: https://github.com/petrvanblokland/DD.S-Scale-the-study-2020-09/tree/master
+
+Teams: Scaling the study SD
+
+https://designdesign.space
+
+Sketching: https://vimeo.com/445611312
+
 
 ## Topics
 
